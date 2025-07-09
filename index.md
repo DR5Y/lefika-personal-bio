@@ -1,4 +1,4 @@
-# My Personal Bio
+# LEFIKA SETUKEs bio
 
 ## About Me
 Hello! My name is Lefika Setuke. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
@@ -41,6 +41,5 @@ _AI Solutions_
 - **LinkedIn:** https://www.linkedin.com/in/lefika-andrew-setuke-b78273270/
 - **GitHub:** https://github.com/DR5Y
 
----
 
 
