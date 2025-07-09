@@ -1,4 +1,4 @@
-# LEFIKA SETUKEs bio
+# LEFIKA SETUKEs personal bio
 
 ## About Me
 Hello! My name is Lefika Setuke. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
